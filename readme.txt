@@ -70,3 +70,7 @@ npx tailwind init -p
 
 instalar o lucid para icons
 npm i lucide-react
+
+instalar o react router para comecar a tratar com rotas
+npm install react-router-dom
+npm install localforage match-sorter sort-by
