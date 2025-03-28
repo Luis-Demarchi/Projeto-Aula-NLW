@@ -74,3 +74,12 @@ npm i lucide-react
 instalar o react router para comecar a tratar com rotas
 npm install react-router-dom
 npm install localforage match-sorter sort-by
+
+instalar a bibli tailwind-variants para estilizar componentes do react
+npm i tailwind-variants
+
+instalar a bibli react daypicker para pegar um intervalo de datas
+npm install react-day-picker date-fns
+
+instalar a bibli que permite fazer chamadas do back para o front
+npm i axios
